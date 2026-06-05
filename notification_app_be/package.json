@@ -1,0 +1,8 @@
+{
+  "name": "notification_app_be",
+  "version": "1.0.0",
+  "main": "src/app.js",
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}
